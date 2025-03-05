@@ -32,7 +32,7 @@ I am a Master in Physics with a specialization in data analysis, modeling, and m
 
 My interests extend beyond technical domains to include a deep curiosity about history, economics, linguistics and games. I enjoy combining these fields with technology to create something useful, artistic, or simply fun.
 
-Currently, I am expanding my knowledge in artificial intelligence and LLMs with the goal of integrating it into my future projects and initiatives. I am passionate about harnessing the potential of AI to enhance problem-solving across multiple fields and make out lives better.
+Currently, I am expanding my knowledge in artificial intelligence and LLMs with the goal of integrating it into my future projects and initiatives. I am passionate about harnessing the potential of AI to enhance problem-solving across multiple fields and make our lives better.
 
 
 [comment]: <> Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
