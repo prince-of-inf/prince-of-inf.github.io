@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Analysis of World Trade
-description: in Python
+title: Random name generator
+description: in Python/Streamlit
 img: assets/img/random_names/front.jpg
 importance: 1
 category: fun # show as category over project blocks
