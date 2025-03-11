@@ -200,7 +200,8 @@ exclude:
   - _pages/cv.md # cv - godd one!
   - _pages/dropdown.md # dropdown - dropdown submenus with books and blog
   - _pages/news.md # news
-  - _pages/projects.md # projects
+  - _pages/posts.md # posts
+ # - _pages/projects.md # projects - godd one!
 keep_files:
   - CNAME
   - .nojekyll
