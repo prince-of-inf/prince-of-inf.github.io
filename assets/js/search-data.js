@@ -59,8 +59,8 @@ ninja.data = [{
           description: "in Python",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project%20copy/";
-            },},{id: "projects-random-name-generator",
-          title: 'Random name generator',
+            },},{id: "projects-multilingual-fantasy-name-generator",
+          title: 'Multilingual fantasy name generator',
           description: "in Python and Streamlit",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project%20streamlit%20names/";
