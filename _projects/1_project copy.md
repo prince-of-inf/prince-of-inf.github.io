@@ -4,7 +4,7 @@ title: Analysis of World Trade
 description: in Python
 img: assets/img/world_trade/world_trade.jpg
 importance: 1
-category: work # show as category over project blocks
+category: economics # show as category over project blocks
 # related_publications: true # adds, section, to cite: {% cite einstein1950meaning %}
 # giscus_comments: true # proste komentarze jak na githubie
 # redirect: https://unsplash.com # redirect to another page on click
