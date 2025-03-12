@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Random name generator
+title: Multilingual fantasy name generator
 description: in Python and Streamlit
 img: assets/img/random_names/front.jpg
 importance: 1
