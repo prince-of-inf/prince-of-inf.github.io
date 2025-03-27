@@ -58,12 +58,17 @@ ninja.data = [{
           title: 'Analysis of World Trade',
           description: "in Python",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project%20copy/";
+              window.location.href = "/projects/1_project_world_trade/";
             },},{id: "projects-multilingual-fantasy-name-generator",
           title: 'Multilingual fantasy name generator',
           description: "in Python and Streamlit",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project%20streamlit%20names/";
+              window.location.href = "/projects/2_project_streamlit_names/";
+            },},{id: "projects-does-debt-and-deficit-cause-inflation",
+          title: 'Does debt and deficit cause inflation?',
+          description: "in Python and Dash",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project_deficit_inflation/";
             },},{
         id: 'social-email',
         title: 'email',
