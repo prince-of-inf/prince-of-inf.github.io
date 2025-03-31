@@ -69,6 +69,11 @@ ninja.data = [{
           description: "in Python and Dash",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project_deficit_inflation/";
+            },},{id: "projects-modelling-pathways-on-the-campus",
+          title: 'Modelling pathways on the campus',
+          description: "in NetLogo",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project_paths/";
             },},{
         id: 'social-email',
         title: 'email',
