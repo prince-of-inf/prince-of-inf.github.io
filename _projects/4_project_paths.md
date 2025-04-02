@@ -22,7 +22,7 @@ As you can imagine, students running around the campus to make it to their class
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/paths/mapaPW_google.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/paths/mapaPW_google.png" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">
         Map of WUT campus
         </div>
